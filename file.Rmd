@@ -1,5 +1,17 @@
 ---
-title: Week 10 Tutorial
-author: Ibrahim
-date: '`r sys.date()`'
+title: "Week 10 Tutorial"
+author: "Kaihao Chen"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2
 ---
+
+```{r libraries, message = FALSE}
+library(dplyr)
+library(ggplot2)
+
+```
+
+
+
+
